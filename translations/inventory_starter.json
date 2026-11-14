@@ -1,0 +1,9242 @@
+[
+ {
+  "name": "ACES_UE4_Log",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "your_assets"
+ },
+ {
+  "name": "3D Distance",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "3D Linear Gradient",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "3D Perlin Noise",
+  "category": "Procedural",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "3D Perlin Noise Fractal",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "3D Ridged Noise Fractal",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "3D Simplex Noise",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "3D Voronoi",
+  "category": "Procedural",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "3D Voronoi Fractal",
+  "category": "Procedural",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "3D Worley Noise",
+  "category": "Procedural",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "alexav3logc",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Algea",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Almendra",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Almendra Bold",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Almendra Bold Italic",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Almendra Italic",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Ambient Occlusion",
+  "category": "generators",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Anisotropic Kuwahara",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Anisotropic Noise",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Anisotropic Radial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Archive Inker",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Band",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Bend Split",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Bent",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Border Cut",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Circle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Double",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Fire",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Flat",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Head Cut",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Head Smooth",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Inset Border",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Long",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Loop",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Negative",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Rotation",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Rounded",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Simple",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Simple Multiple",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Simple Opposed",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Simple Split",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Simple Stripes",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Arrow Target",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Artistic Brushing",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Artistic Hairy Paint",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Artistic Heavy Sponge",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Artistic Print",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Artistic Soft Bubble",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Artistic Soft Fingers",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Artistic Soft Powder",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "asm-metal-rough",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Atelier",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Atom",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Atom Simple",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Auto Stitcher",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Autumn Forest",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Autumn Leaf",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Autumn Leaves",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Baked Lighting Environment",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Baked Lighting Material",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Baked Lighting Stylized",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Band Half Rounded",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bandage",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bandage",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bandage Dirty",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Barcode",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bark",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Basic Hard",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Basic Hard Pressure",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Basic Soft",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Basmati Brush",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bell",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bevel",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bevel Smooth",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "BlackOpsOne-Regular",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Blue Noise Fast",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Blur",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Blur",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Blur Directional",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Blur Slope",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "BnW Spots 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "BnW Spots 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "BnW Spots 3",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_12_sides_straight",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_12_sides_straight_dirty",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_5_sides_sideways",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_5_sides_sideways_dirty",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_5_sides_straight",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_5_sides_straight_dirty",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_6_sides_sideways",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_6_sides_sideways_dirty",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_6_sides_straight",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_6_sides_straight_dirty",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_8_sides_sideways",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_8_sides_sideways_dirty",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_8_sides_straight",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_8_sides_straight_dirty",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_round",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_blades_round_dirty",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_heart_shape_bold",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_heart_shape_thin",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "bokeh_star",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bones Crossed",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bones Crossed Dots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bonifacio Aragon Stairs",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bonifacio Street",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bracket",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bracket Bent",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brick generator",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bricks 01",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Broken Glass",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Circular Partial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Circular Partial Large",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Corner",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Corner Large",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Dirty Vertical",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Gouache",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Long Stroke",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Maker",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Maker Dynamic",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Maker Paint Roller (Grayscale)",
+  "category": "Alpha",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Maker Photoshop",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Circular",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Circular Drop",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Circular Irregular",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Diagonal",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Diagonal Grungy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Diagonal Long",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Fluid",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Grungy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Grungy Line",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Irregular",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Line Cloudy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Line Drop",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Line Erased",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Partial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Rotated",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Thin",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paint Vertical",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paper Dirty",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paper Dirty Cloud",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paper Dirty Drop",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paper Dirty Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paper Grainy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paper Heavy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Paper Smooth",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Pastel",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Pastel Spread",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Smudge",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Sponge Arc",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Sponge Dense",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Sponge Erased",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Sponge Hollow",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Sponge Warped Border",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Wave",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Brush Wood Stroke",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bullet Impact",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Burn",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Burn",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Bus Garage",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Calligraphic",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Camo UCP",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Camo Woodland",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Canopus Ground",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Carbon Fiber",
+  "category": "Plastic - Rubber",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Card Clubs",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Card Diamonds",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Card Heart",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Card Spades",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cave Entry Forest",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cavity Rust",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cells 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cells 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cells 3",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cells 4",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Celtic Branch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Celtic Circle Crossed Corners",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Celtic Cross",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Celtic Cross Butterfly",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Celtic Cross Circle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Celtic Cross Round",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Celtic Cross Split",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Celtic Round Square",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Celtic Square Crossed Corners",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Celtic Wave",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cement 1",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cement 2",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Chalk Bold",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Chalk Bumpy",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Chalk Spread",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Chalk Strong",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Chalk Thin",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Charcoal",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Charcoal",
+  "category": "Brush",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Charcoal",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Charcoal Fine",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Charcoal Full Frame",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Charcoal Light",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Charcoal Medium",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Charcoal Natural",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Charcoal Ramp",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Charcoal Strong",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Charcoal Wide",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Chathura-Bold",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Chathura-ExtraBold",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Chathura-Light",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Chathura-Regular",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Chathura-Thin",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Checker 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Checker 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Checker Circle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "cineon",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle",
+  "category": "Alphas/Geometric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Branch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Cog",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Crosshair",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Dots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Dots Lines",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Double",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Empty Square",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Gear",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Graduation",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Inverted Gradient",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Overlap",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Partial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Plus",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Slit",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Split",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Split Rounded",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Square Border",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circle Square Plain",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circles",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circular Spiral",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circular Spiral Dense",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circular Spiral Double",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circular Spiral Fade",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circular Spiral Fermat",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circular Stick",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Circular Triangle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Clamp",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Claws Erased",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Claws Spots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "clay",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Clay Earthenware",
+  "category": "Ceramic",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Clay Terracotta",
+  "category": "Ceramic",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cloth Fold Large",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cloth Fold Medium",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Clouds 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Clouds 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Clouds 3",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Coffee Circle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Coffee Circle Half",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Coffee Cup",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Coffee Projection",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Coffee Smear",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Color Balance",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Color Correct",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Color Jitter (By Index)",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Color Jitter (By Seed)",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Color Match",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Concrete",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Concrete Asphalt",
+  "category": "Concrete - Asphalt",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Concrete Cast",
+  "category": "Concrete - Asphalt",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Concrete Coarse",
+  "category": "Concrete - Asphalt",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Concrete Edges",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Concrete Edges 2",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Concrete Light",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Contrast Luminosity",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cork Natural",
+  "category": "Wood",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Corsica Beach",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cotton",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "CourierPrime",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "CourierPrime-Bold",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "CourierPrime-BoldItalic",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "CourierPrime-Italic",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Crack Ceramic",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Crack Rock",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Crack Wood",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cracks",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cracks",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cracks Cells",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cracks Crystal",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cracks Directional",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cracks Leather",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cracks Stamp",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Creased",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Creases Soft",
+  "category": "Procedural",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cross Blocky",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cross Corner",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cross Forbidden Full",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cross Half",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cross Medieval",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cross Medieval Curved",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cross Medieval Round",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cross Rectangle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cross Rounded",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cross Split",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Cross Thin",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Crumples",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Crystal",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Crystal 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Crystal 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Curvature",
+  "category": "generators",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Custom Ribbon Grayscale",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Custom Ribbon Grayscale",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Custom Ribbon Material",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Custom Ribbon Material",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Custom Spray Paint",
+  "category": "Prints - Paint",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Custom Sticker",
+  "category": "Patches",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dancing Script Bold",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dancing Script Regular",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dark Hatcher",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dashed Line",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Default Receiver",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Denim Rivet",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Diagonal Drips",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Directional Distance",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Directional Noise 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Directional Noise 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Directional Noise 3",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Directional Noise 4",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Directional Scratches",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt 1",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt 2",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt 3",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt 3",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt 4",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt 5",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Blurry Dense",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Brushed",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Brushed",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Cavities",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Cloudy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Dry",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Dusty",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Gradient",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Ground",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Heavy",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Leak Dry",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Smudge",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Soft Edges",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Splash",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Splashes",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Spots",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Spots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Spots",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Spots Dense Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Spots Hollow",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Spots Moss",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dirt Stain large",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "dota-2",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dots",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dots Circular",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dots Erased",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dripping Rust",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drips Big",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drips High",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drips Top",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drop Long",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drop Medium",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drop Shadow",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drop Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drop Splatter",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drop Spread",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drop Spread Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drop Spread Wide",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Drop Thick",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dry Mud",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust Dirty",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust Occlusion",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust Plastic",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust Soft",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust Soft 2",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust Soft Edges",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust Stained",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust Subtle",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust Surface",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Dust Wide Edges",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Edge Damage",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Edge Dirty Cracks",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Edge Rust",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Edge Stone Cracks",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Edges Blur",
+  "category": "",
+  "type": "SMART_MASK",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Electric Lines",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Elephant Skin",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Embroidery",
+  "category": "Soft Surfaces",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Alternate V",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Celtic Butterfly",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Celtic Cross Round",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Celtic Round Square",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Checker",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Circle Half",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Circle Half Overlap",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Circles Overlap",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Circular G",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Cotton Jersey",
+  "category": "Fabric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Cross Curved",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Cross Rounded",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Denim",
+  "category": "Fabric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Diagonal",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Diagonal Diamond",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Diagonal Thin",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Diamond Alternate",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Diamond Overlap",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Diamond Simple",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Edge Wear",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Edge Wear",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Felt",
+  "category": "Fabric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Fleur De Lis",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Houndstooth",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Lace",
+  "category": "Fabric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Linen",
+  "category": "Fabric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Medieval Circle Cross",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Medieval Cross",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Medieval Cross Angled",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Medieval Cross Corner",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Medieval Cross Packed",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Medieval Cross Round",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Medieval Flower",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Medieval Pyramid Aligned",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Medieval Pyramid Alternate",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Medieval Pyramid Curved",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Nylon",
+  "category": "Fabric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Puckering",
+  "category": "Tool",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Puffy Line",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Ripstop",
+  "category": "Fabric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Seam",
+  "category": "Tool",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Spacer Mesh",
+  "category": "Fabric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Square Center",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Square Sharp",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Squares",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Star Block",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Star Five Branch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Tarpaulin",
+  "category": "Fabric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Tear",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Tear",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Tear Cut",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Tear Holes",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Topstitching",
+  "category": "Tool",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Triangle Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Wool Herringbone",
+  "category": "Fabric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fabric Wool Jersey",
+  "category": "Fabric",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Feather Stylized",
+  "category": "Noise",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Felt Tip Small",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Felt Tip Watercolor",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fence 01",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fetl Tip Large",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fiber Glass Edge Wear",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers Dense",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers Feather",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers Interlaced",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers Jagged",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers Line",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers Moss",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers Soft",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers Sparse",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers Square",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers Square",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fibers Vertical",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fill",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fill Area Color",
+  "category": "Effect",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fill Area Mask",
+  "category": "Effect",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "film_noir",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Hand Bloody",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Hand Dirty",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Hand Drop",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Hand Flowing",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Hand Top",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Index",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Index Flowing",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Little",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Middle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Multiple",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Ring",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Thumb",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Thumb Flowing",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fingerprint Thumb Partial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "flare_max",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "flare_max_scratched",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "flare_medium",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "flare_medium_scratched",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "flare_small",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "flare_small_scratched",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fleur De Lis",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Flower",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Flower Sakura Grains",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Flower Sakura Light",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Flower Sakura Petal",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Flower Sakura Simple",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Flower Stylized",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fluid",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fold",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Footprint Erased",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Footprint Paint",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Footprint Partial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Footprint Soaked",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Footprints",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Footprints",
+  "category": "Tools",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fractal Sum 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fractal Sum 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fractal Sum 3",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fractal Sum 4",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fractal Sum Base",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fractal Sum Base Colored",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fracture",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fracture",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fracture2",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Frost",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Frost",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fur",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fur",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fur 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fur 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fur 3",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fur Random",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fur Soft Wide",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Fur Sparse",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "FXAA (Anti-aliasing)",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "gamma1-8",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "gamma2-2",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gaussian Noise",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gaussian Spots 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gaussian Spots 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gdansk Shipyard Buildings",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Glass",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Glass2",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Glazed Patio",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Glitter",
+  "category": "Tool",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Glitter Dots Pastel",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Glitter Party",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Glitter Stars Golden",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Glow",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "GNUTypewriter",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gouache",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gouache",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gouache Dense",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gouache Faded",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gouache Paint",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Alternate",
+  "category": "Patterns",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Builder",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Checker",
+  "category": "Patterns",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Checker Double",
+  "category": "Patterns",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Circular",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Colored Smooth",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Curve",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Disc Overlap",
+  "category": "Patterns",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Disc Shifted",
+  "category": "Patterns",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Dot",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Dynamic",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Flakes",
+  "category": "Patterns",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Hue",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Hue",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Linear 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Linear 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Linear 3",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Linear Line",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Paint Brush",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Reflected Line",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Weave",
+  "category": "Patterns",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Weave Angle",
+  "category": "Patterns",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Weave Angle Rotated",
+  "category": "Patterns",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Gradient Weave Rotated",
+  "category": "Patterns",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Graffiti",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Graphic to Material",
+  "category": "Tool",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "grayscale",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grayscale Conversion",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grayscale Conversion",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grip",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grip Capsule",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grip Dots",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grip Knurling",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grip Waves",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Ground Natural Mud",
+  "category": "Ground",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Ground Sand",
+  "category": "Ground",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Brushed",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Brushed Dust",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Bush",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Charcoal",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Cobweb",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Concrete",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Concrete Burnt",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Concrete Cracked",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Concrete Dirty",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Concrete Dusty",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Concrete Old",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Concrete Wall",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Cracked Deep",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Croncrete Moss Medium",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Croncrete Moss Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Croncrete Paint Leak",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Croncrete Spots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Damas",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dirt",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dirt Dried",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dirt Heavy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dirt Large",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dirt Muddy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dirt Scratched",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dirt Scratchy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dirt Splats",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dirt Thin",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dust Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dust Spread",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dust Streak",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dust Wide",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dusty Powder Mass",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dusty Powder Soft",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dusty Powder Wide",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Dusty Scratch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Fingerprints Dirty",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Fingerprints Dusty",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Fingerprints Dusty Spread",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Fingerprints Smeared",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Fingerprints Smeared Wide",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Fluff",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Folds",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Galvanic Large",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Galvanic Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Humidity",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Leak Dirty",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Leak Large",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Leak Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Leak Spots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Leaks",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Leaky Paint",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Leather",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Leather Damaged",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 001",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 002",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 003",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 004",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 005",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 006",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 007",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 008",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 009",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 010",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 011",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 012",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 013",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 014",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Map 015",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Marble Shapes",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Marble Veins",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Paint Peeled",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Paint Scraped",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Paint Scratched",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Paint Streak Circular",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Paper Ripped",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Pebbles Dirt",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Pebbles Spots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Plaster Cracked",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Plaster Damaged",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Plaster Faded",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Plaster Paint",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Plaster Painted",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Rock",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Rough Dirty",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Roughcast",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Rust Fine",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Rusty Leaks",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Sand Dry",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Scratches",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Scratches Dirty",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Scratches Fine",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Scratches Rough",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Shavings",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Splashes Dusty",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Spots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Spots Dirty",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Stains Heavy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Stains Hollow",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Stains Large Hollow",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Stains Leaky",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Stains Small Hollow",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Stains Spots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Stone Details",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wipe Brushed",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wipe Brushed Large",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wipe Brushed Partial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wipe Directional",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wipe Directional Heavy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wipe Dusty",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wipe grainy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wipe Leaky",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wipe Smudgy Heavy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wipe Smudgy Soft",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wood Hard",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wood Liquid",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Grunge Wood Soft",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hair Lines",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hair Lines Dense",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hair Lines Sparse",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Details",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Heavy Leak",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Leak",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Paint",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Paint Erased",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Paint Palm",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Paint Partial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Paper",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Partial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Partial Flowing",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Smear",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Smear Dry",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Smear Flowing",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Smear Paint",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Soaked",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Handprint Splat",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hard Surface Gradient",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hatching Grid",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hatching Rotated",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hatching Scraped",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hatching Spaced",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Height Adjust",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Height To Normal",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Border",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Border",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Border Corner",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Border Double",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Branch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Branch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Crosshair",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Dots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Dots Corner",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Double",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Half Arrow",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Pyramid Split",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Round Cut",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Split",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Star",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Stretch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Stripes",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Tri Branch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Triangle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Triangle Border",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Triple",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Hexagon Wave",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Highpass",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Histogram Scan",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Histogram Shift",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "HSL Perceptive",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Human Female 30s Face #06",
+  "category": "Organic",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Indie Flower",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Inflate Shrinkwrap",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Ink Dirty",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Ink Random",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Ink Splatter Big",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Ink Splatter Small",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Invert",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Iris",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Ivy Branch",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Ivy Branch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Jura DemiBold",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Jura Light",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Jura Medium",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Jura Regular",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Knife Painting",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Knife Painting Heavy",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Knife Painting Soft",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 0",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 1",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 10",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 11",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 12",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 13",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 14",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 15",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 16",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 17",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 18",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 19",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 2",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 20",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 21",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 22",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 23",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 24",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 25",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 26",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 27",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 28",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 29",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 3",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 30",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 31",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 32",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 33",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 34",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 35",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 36",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 37",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 38",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 39",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 4",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 40",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 41",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 42",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 43",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 44",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 45",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 46",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 47",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 48",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 49",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 5",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 50",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 51",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 52",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 53",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 54",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 55",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 56",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 57",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 58",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 59",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 6",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 60",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 61",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 62",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 63",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 64",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 65",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 66",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 67",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 68",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 69",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 7",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 70",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 71",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 72",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 73",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 74",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 75",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 76",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 77",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 78",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 79",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 8",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 80",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 81",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 82",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 83",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 84",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 85",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 86",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 87",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 88",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 89",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 9",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 90",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 91",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 92",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 93",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 94",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 95",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 96",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 97",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 98",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle Brush Presets alpha 99",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - 1970s Picture Book",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Broken Lines",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Bubble Burst",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Cartoon Scales Control",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Chickenscratch",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Chipper 1",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Chipper 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Chipper 3",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Clouds Chunky",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Clouds Puffy 1",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Cracked Earth",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Crackup 1",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Crazy Cracks",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Crazy Cracks 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Crystalline",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Cubist 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Dragon Scales",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Fast Grass 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Fast Grass 3",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Fast Grass 4",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Foliage Pro 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Foliage Small Ground Cover",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Fur Animal Left",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Fur Animal Left More",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Fur Animal Right",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Fur Animal Right More",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Gulls 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Jungle Build 1",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Mike's Ivy Down",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Rain Basic",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Raindrops",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Sir Hairy",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Sir Hairy 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Sir Hairy Short 1",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Sir Hairy Sparse",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Small Branch Mix",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Concept Brushes - Weirdness",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Inkbox - Beta Twister",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Inkbox - Bone Dry Brush",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Inkbox - Chopped ",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Inkbox - Flat Tip Marker",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Big Streak 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Cezanne",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Cezanne 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Claude M",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Fence Painter",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - French Fat Bristle",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - French Point Small",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - French Sharp Block",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Gouache Blair 30",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Gouache G Dry Out",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Gouache Wet Round",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Impressionist Chunk",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Monet",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Monet 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Pissarro 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Seurat",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Signac 3",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Paintbox - Van Gogh Blocky",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Rakes - Big Basic No Flow",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Rakes - Grind",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Rakes - Monster Heavy D",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Rakes - Phat",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Rakes - Pressure",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Rakes - Sparse Rough",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Rakes - Variant",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Bleeding Edges",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Bristle Buddy",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Natural Edge Painter 1",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Natural Edge Painter 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Opaque",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Opaque Thicker",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Pulpy Paper 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Salt",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Salt Alt",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Salt Course",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Salt Fine",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Salt Medium",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Soft Irregular Wash Variant",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Sparse Bristle",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Spatter",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Spatter Mixed",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Spatter Spread",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Spider Spread Crisp",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Veiny Vision",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Veiny Vision 2",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Real Watercolor - Wamazing Basic",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Runny Inkers - Blot Bot 3",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Runny Inkers - Blot Bot 5",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Spatter Brushes - Asteroid Belt",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Spatter Brushes - Beautiful Mess",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Spatter Brushes - Big Basic",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Spatter Brushes - Dampy Drip 01",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Spatter Brushes - Dampy Drip 02",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Spatter Brushes - Dots 1",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Spatter Brushes - Stars 1",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Kyle's Spatter Brushes - wc Spatter Spread",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Large Rust Leaks",
+  "category": "Leaks - Stains",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Laser",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Laser Impact",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leaf Curved",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leaf Curved Heavy",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leaf Messy",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leaf Simple",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leaf Swirl",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leak",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leak One Drop",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leak One Drop Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leak Spread",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leak Spread Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leaks",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leaks Heavy",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leather",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leather Grain",
+  "category": "Leather",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leather Reptile Skin",
+  "category": "Leather",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leather Skin",
+  "category": "Leather",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leather Strip",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leather Strip",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leather Strip Damaged",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Leather Suede",
+  "category": "Leather",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Libre Baskerville",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Libre Baskerville Bold",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Light",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Lightning",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Lightning",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Dashed",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Dashed Diagonal",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Dashed Diagonal",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Double Angle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Notch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Oblong",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Oblong",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Stripes",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Stripes Mirror",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Wave",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Wave",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Zigzag",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Line Zigzag",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Lines Wave",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Lips Erased",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Lips Partial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Lips Partial Round",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Lips Plain",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Liquid",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Liquid Stream",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Logo Painter",
+  "category": "",
+  "type": "VECTORIAL",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Logo Substance",
+  "category": "",
+  "type": "VECTORIAL",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "ManualRain",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Marble Fine",
+  "category": "Procedural",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Marble Veined",
+  "category": "Marble - Granite",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Marble Veins",
+  "category": "Procedural",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Marble Wide",
+  "category": "Procedural",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Marker",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Mask Builder - Legacy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Mask Editor",
+  "category": "generators",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Mask Outline",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFinish Brushed Linear",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFinish Galvanized",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFinish Grainy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFinish Grinded",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFinish Hammered",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFinish Perforated Circles",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFinish Powder Coated",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFinish Raw",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFinish Rough",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFx Comic Book",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFx Detail Edge Wear",
+  "category": "MatFX",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFx Edge Damages",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFx HBAO",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFx Oil Paint",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFx Peeling Paint",
+  "category": "Metal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFx Rust Weathering",
+  "category": "Effect",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFx Shut Line",
+  "category": "MatFX",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFX Water Drops",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "MatFx Watercolor",
+  "category": "Filters",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Medieval Cross Heart",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Medieval Flower Bell",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Medieval Flower Simple",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Medieval Rosace",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Medieval Spiral",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Medieval Swirl",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Medium Acarospora Lichen",
+  "category": "Damages",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Mesh 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Mesh 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Messy Fibers 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Messy Fibers 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Messy Fibers 3",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metal Brushed",
+  "category": "Metal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metal Edge Wear",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metal Foil",
+  "category": "Metal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metal Galvanized",
+  "category": "Metal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metal Polished",
+  "category": "Metal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metal Rust",
+  "category": "Metal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metal Sandblasted",
+  "category": "Metal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metal Stitches",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metal Welding",
+  "category": "Tool",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metallic Grate Lines",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metallic Grate Round",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metallic Grate Simple",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metallic Grate Wide",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Metamorphous",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Microscope View",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Mirror",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Moisture",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Moisture Noise",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Mold",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Mold",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Mondarrain 3",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Moon",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Nail",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Nail",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "non-pbr-spec-gloss",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Normal Vector Uniform",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Oil Leaks",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "open-pbr",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "orange_blue",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Orbitron-Bold",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Orbitron-Light",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Organic Bone",
+  "category": "Organic",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Organic Flesh",
+  "category": "Organic",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Organic Spread",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Ornament Leaf",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Over Clouds",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Brushed",
+  "category": "Paint",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Cracked",
+  "category": "Paint",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Drops",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Roll",
+  "category": "Paint",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Roller (Material)",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Roller Arrow",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Roller Staples",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Roller Staples Wide",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Roller Stitches",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Roller Stripes",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Roller Vein Long Narrow",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Roller Warning Text",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Spray",
+  "category": "Paint",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paint Spray",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "panalog",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Panel Asymmetric Band",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Panel Corrugated Sharp",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Panel Corrugated Smooth",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Panel Double Rib",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Panel Fluted Groove",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Panel Normal Edge",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Panel Rib",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Panel Steps Out Round",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Panorama",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paper Cardboard",
+  "category": "Paper",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paper Grainy",
+  "category": "Paper",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Paper Path",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pastel Bold",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pavement",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "PBR Validate (Metallic Roughness)",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "pbr-car-paint",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "pbr-coated",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "pbr-material-layering",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "pbr-material-layering-10-mats",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "pbr-metal-rough",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "pbr-metal-rough-anisotropy-angle",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "pbr-metal-rough-with-alpha-blending",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "pbr-metal-rough-with-alpha-test",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "pbr-spec-gloss",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "pbr-velvet",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pearls",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pebble",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pebbles",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pen Marker",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pencil",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Perlin Noise",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pipe Rack",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pipe Rack Sci-fi",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pixelate",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Plasma",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Plastic Composite",
+  "category": "Plastic - Rubber",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Plastic Grip",
+  "category": "Plastic - Rubber",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "ploglin",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pocket Patch Regular",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pollock",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pollock CD",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Polygon 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Polygon 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Position",
+  "category": "generators",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Posterize",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Puckering (Legacy)",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Puddle",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pyramid Double Block",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Pyramid Stripes",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Quantize",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rain",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rain",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "rec709",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rectangle Band Stripes",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rectangle Dots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rectangle Half Rounded",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "redlog",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rice Brush",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rice Brush Light",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Road Stripes",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rock Face",
+  "category": "Stone",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rococco",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Round Checker",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Round Shape Hard",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Round Shape Smooth",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rubber Raw",
+  "category": "Plastic - Rubber",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Ruler Circle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rust",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Rust2",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "RustDrop",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sand Storm",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sandpaper",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sandpaper Vertical",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scar Plain Straight",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scarce Blood Leaks",
+  "category": "Leaks - Stains",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sci-Fi Scales",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sci-Fi Worm",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratch Thin",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratches",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratches",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratches 2",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratches 3",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratches 4",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratches 5",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratches Dense",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratches Generator",
+  "category": "Pattern",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratches Hard",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratches Partial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Scratches Scatter",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Screw Bolt",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Seam (Legacy)",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Seam Puckering",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Seam Puckering Fabric",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Seam Puckering Leather",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Segment14",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "sepia",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shahn",
+  "category": "",
+  "type": "BRUSH",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape (Default)",
+  "category": "alpha",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Bell",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Bell Half",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Bell Ridged",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Border Circle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Border Cross",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Border Square",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Border Triangle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Brick",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Capsule",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Circle Squeeze",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Cone",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Crescent",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Dots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Gradient",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Inky",
+  "category": "Alpha",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Lines Bending",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Offset",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Paraboloid",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Pyramid",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Sharp Line",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Square Squeeze",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Star",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape T Line",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Thorn",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shape Wave",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sharp Line",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sharpen",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shutter Parting Line",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shutter Parting Line 3 Chamfer",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shutter Parting Line Chamfer",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shutter Parting Line Cut",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shutter Parting Line Groove",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shutter Parting Line Lip Seal",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shutter Parting Line O Ring",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Shutter Parting Line Smooth",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Arrow Diagonal",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Arrow Sideway",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Biohazard",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Caution",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Caution Vertical",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Circle info",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Circle Number",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Cold",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Corrosive",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Cut Hazard",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Diamond Border",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Divide",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Dog",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Electrical",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Electromagnetic",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Entanglement Hazard",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Environment Pollution",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Explosive",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Eye",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Flammable",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Forbidden",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Forbidden Band",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign General Danger",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Harmful",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Harmful Square",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Heat",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Laser",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Magnetic Field",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Minus",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Multiply",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Optical Radiation",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Oxidizer",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Person",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Plus",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Power",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Protection Ear",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Protection Eye",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Protection Respirator",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Radiation",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Radiation Round",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Recycle Symbol",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Recycle Symbol Taiwan",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Toxic",
+  "category": "Decal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Vent",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sign Warning Hatched",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Single",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Skin Frog Alveoli",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Skin Frog Cracked",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Skin Frog Dense",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Skin Human Flat",
+  "category": "Organic",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Skin Vegetation",
+  "category": "Organic",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "slog",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Small Bullet Impacts On Concrete Wall",
+  "category": "Damages",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Smoke Brush",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Smooth Noisy",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Smoothstep",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Smudge Cloud",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Smudge Paper",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Smudge Radial",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Smudge Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Smudge Star",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Smudge Stretch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Soft 1Front",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Soft 1Front 2Backs",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Soft 1LowContrast Front",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Soft 1LowContrastFront 2Backs",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Soft 2RingHighContrast",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Soft 2RingLowContrast",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Soft 4TubeBank 2BlackFlags",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Soft 5DaylightStudio",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Source Han Sans Light",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Source Han Serif SC Light",
+  "category": "",
+  "type": "FONT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Spiral",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Splash Spots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Splat",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Sponge",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Spots",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Spots Spray",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Spray",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Spray",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Spray Colored",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Spray Paint Tag",
+  "category": "Prints - Paints",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Spray Skin Light",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Spray Skin Red",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Band",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Border Corner Cut",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Border Split",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Dashed",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Dots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Line Overlap",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Rectangle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Round Border",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Round Empty Line",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Rounded Split",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Stripes",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square To Circle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Triangle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Square Vent",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "sRGBf",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Brushed",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Circles",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Fiber Large",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Fibers",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Marks",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Mop hairy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Mossy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Napkin",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Napkin Diagonal",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Napkin Island",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Nugget",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Skull",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Splat",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Splat Paper",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stain Spread",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Star Border",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Star Broken Ring",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Star Chevron",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Star Five Branch",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Star Square Overlap",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Star Sun",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Star Within Star",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitch Generator",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches 1",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches 2",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches 3",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches 4",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches Complex",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches Complex",
+  "category": "Material",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches Cross Seam",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches Cross Seam",
+  "category": "Material",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches Roller",
+  "category": "Alpha",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches Small",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches Straight",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stitches Straight",
+  "category": "Material",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stone Noisy",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stone Slate",
+  "category": "Stone",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stone Travertine",
+  "category": "Stone",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stripes",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stripes Damaged",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Studio 02",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Studio 03",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Studio 05",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Studio 06",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Studio 80s Horror Flick A",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Studio Automotive Neutral",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Studio Black Soft",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Studio Tomoco",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Studio White Soft",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Studio White Umbrella",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stylization",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stylized Natural Ground",
+  "category": "Ground",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stylized Raw Metal",
+  "category": "Metal",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stylized Stone",
+  "category": "Stone",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stylized Wood Bark",
+  "category": "Wood",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stylized Wood Plain",
+  "category": "Wood",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Stylized Wood Rough",
+  "category": "Wood",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Swarm",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tape Gaffer",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tape Gaffer",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tape Metallic",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tape Plastic",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tape Plastic",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tape Plastic Transparent",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Terrazzo Composite",
+  "category": "Marble - Granite",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Text Aligned Left",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Text Aligned Left Repeated",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Text Aligned Right",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Text Caution",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Text Centered",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Text Embroidered",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Text Stop",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Text Stretched",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Text Warning",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Threshold",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tightening Cord Eyelet",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tightening Cord Eyelet",
+  "category": "Tool",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tightening Cord Lace",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tightening Cord Lace",
+  "category": "Tool",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tile Generator",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tile Random 2",
+  "category": "Pattern",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tire Track 1",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tire Track 2",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tire Track 3",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tire Track 4",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tire Track 5",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Topstitches",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Topstitches Baseball",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Topstitches Cross Stylized",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Topstitches Double Stretch",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Topstitches Hexagonal",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Topstitches Ladder",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Topstitches Straight",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Topstitching (Legacy)",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Transform",
+  "category": "Filter",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tri-Planar Advanced",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Tri-Planar Advanced",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Border Band",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Border Cut",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Border Dot",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Circular",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Crossed",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Cut",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Cut Border",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Double Overlap",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Double Overlap Small",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Grid",
+  "category": "Pattern",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Infinite",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Linear Gradient",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Pyramid",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Rounded",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Rounded Circle",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Row",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Slide",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Split",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Split Border",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Split Horizontal",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Split Vertical",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Square",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Three Split",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Three Split Offset",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle Triforce",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Triangle V",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "UV Border Distance",
+  "category": "Generators",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "UV Checker",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "UV Random Color",
+  "category": "Generator",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "UV Texel Density",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Vein Long Narrow",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Veins",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Veins",
+  "category": "",
+  "type": "SCRIPT",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Veins",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Veins Small",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Veins Straight",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Veiny",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Villa Nova Street",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "vintage",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "viperlog",
+  "category": "",
+  "type": "IMAGE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Voronoi",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Voronoi Fractal",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "vraymtl-metallic",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "vraymtl-specular",
+  "category": "",
+  "type": "SHADER",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Warp",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wash",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wash Drawing",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Water Drop",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Watercolor",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Watercolor Brush",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Watercolor Spots",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Waveform 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Weave 1",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Weave 2",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Weave 3",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Weave 4",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Welding",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Welding Circular",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Welding Grinded",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Welding Gum",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Welding Hot",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Welding Metal",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Welding Swirl",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Welding Zig Zag",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wet Hard",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wet Hard Border",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wet Soft",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wet Soft Round",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "White Noise Fast",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wiggle Stroke Dense",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wiggly Dots",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wiggly Dots",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wiggly Stroke With Break Up",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wiggly Strokes",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wood 01",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wood Bark",
+  "category": "Wood",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wood Knot",
+  "category": "Alpha",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wood Plain",
+  "category": "Wood",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wood Rough",
+  "category": "Wood",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wood Slice",
+  "category": "Wood",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "World Space Normals",
+  "category": "generators",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Wrinkles",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zigzag Long",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zigzag Short",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zigzag Step",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper",
+  "category": "",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper Coil",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper Denim",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper Invisible",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper Metal",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper Molded",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper Plastic",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper Rugged",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper Tape",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper Tape",
+  "category": "Tool",
+  "type": "SUBSTANCE",
+  "shelf": "starter_assets"
+ },
+ {
+  "name": "Zipper Waterproof",
+  "category": "",
+  "type": "PRESET",
+  "shelf": "starter_assets"
+ }
+]

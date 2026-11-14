@@ -1,0 +1,10 @@
+_ThirdParty/
+_ref/
+_backup/
+dist/
+cpp/build/
+__pycache__/
+*.pyc
+build/
+_tools/
+*.log
