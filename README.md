@@ -1,7 +1,6 @@
 # 星空汉化 · Substance 3D Painter 中文插件
 
 为 Adobe Substance 3D Painter（Windows，12.x）提供界面与资源名的中文显示。
-纯显示层实现：不修改宿主控件、模型、输入内容或工程数据；关闭插件或按 `F1` 后界面完全恢复原样。
 
 ## 功能
 
