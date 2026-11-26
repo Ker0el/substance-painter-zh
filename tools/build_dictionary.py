@@ -85,13 +85,22 @@ def main():
     ui = {}
     merge(ui, official, "official qm")
     merge(ui, load(os.path.join(TRANSLATIONS, "manual_ui_zh.json")), "manual ui")
+    # 官方 .qm 的个别译法夹带英文（如「切线 | Wrap包裹」）：允许源文含中文，
+    # 直接覆盖，不做 acceptable() 过滤。ui_zh.json 运行时最后加载，优先级最高。
+    overrides = load(os.path.join(TRANSLATIONS, "manual_official_overrides_zh.json"))
+    for source, target in overrides.items():
+        if source.strip() and target.strip():
+            ui[source.strip()] = target.strip()
+    if overrides:
+        print(f"  official overrides: {len(overrides)}")
 
     assets = {}
     # 人工词条按文件名顺序合并，后加载覆盖先加载。
     for name in sorted(os.listdir(TRANSLATIONS)):
         if not (name.startswith("manual_") and name.endswith("_zh.json")):
             continue
-        if name == "manual_control_ids_zh.json":
+        if name in ("manual_control_ids_zh.json",
+                    "manual_official_overrides_zh.json"):
             continue
         merge(assets, load(os.path.join(TRANSLATIONS, name)), name)
 

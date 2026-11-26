@@ -1,0 +1,16 @@
+{
+ "$schema": "xk-translation-v1",
+ "id": "manual_official_overrides_zh",
+ "language": "zh-CN",
+ "description": "覆盖官方 .qm 中夹带英文或译法不佳的词条（源文可含中文）",
+ "translations": {
+  "Tangent | Wrap": "切线 | 环绕",
+  "Tangent|Wrap": "切线 | 环绕",
+  "Tri-planar 三面映射": "三平面映射",
+  "Tri-planar三面映射": "三平面映射",
+  "Triplanar 三面投射视图": "三平面投射视图",
+  "切线 | Wrap包裹": "切线 | 环绕",
+  "切线|Wrap包裹": "切线 | 环绕",
+  "显示/隐藏Triplanar三面映射操作框": "显示/隐藏三平面映射操作框"
+ }
+}

@@ -34,6 +34,16 @@ xingkong_zh/
     └── control_ids_zh.json  控件专项（_skip_ / 位点译法）
 ```
 
+## 版本记录
+
+### v0.1.1（2026-11-26）
+
+- 词库扩充至 **8120 条**（界面 4061 + 资源 4059），补全生成器/滤镜参数标签、混合模式、环境与灯光参数
+- 新增官方 `.qm` 译文覆盖机制（`translations/manual_official_overrides_zh.json`），修正 `切线 | Wrap包裹`、`Tri-planar三面映射` 等夹英文的官方译法
+- 新增参数标签自动组合词条（`translations/manual_auto_params_zh.json`，已人工复核）
+- 翻译范围：参数与界面文本中文化；材质/选项专名按行业习惯保留英文
+- 安装包更名为 `SP_zh-CN_v0.1.1_Setup.exe`
+
 ## 词库
 
 词库为 JSON，格式见文件头 `$schema: xk-translation-v1`，`translations` 为 `原文 -> 译文`。

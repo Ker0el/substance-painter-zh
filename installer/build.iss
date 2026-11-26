@@ -2,7 +2,7 @@
 ; 构建：先运行根目录 build.bat 生成 dist\xingkong_zh，再运行本目录 build.bat
 ; 直接编译：ISCC.exe build.iss（可用 ISCC 环境变量指定编译器路径）
 #define MyAppName "星空汉化 · SP 中文插件"
-#define MyAppVersion "0.1.0"
+#define MyAppVersion "0.1.1"
 #define MyPublisher "星空汉化"
 #define MyUrl "https://space.bilibili.com/177308205"
 #define SrcDir AddBackslash(SourcePath) + "..\dist\xingkong_zh"
@@ -18,11 +18,11 @@ AppPublisher={#MyPublisher}
 AppPublisherURL={#MyUrl}
 AppSupportURL={#MyUrl}
 AppUpdatesURL={#MyUrl}
-VersionInfoVersion=0.1.0.0
+VersionInfoVersion=0.1.1.0
 VersionInfoCompany={#MyPublisher}
 VersionInfoDescription={#MyAppName}
 VersionInfoProductName={#MyAppName}
-VersionInfoProductVersion=0.1.0.0
+VersionInfoProductVersion=0.1.1.0
 DefaultDirName={userdocs}\Adobe\Adobe Substance 3D Painter\python\plugins\{#PluginDirName}
 ; 用户浏览选择目录时，不要把 DefaultDirName 的最后一段拼上去
 AppendDefaultDirName=no
@@ -39,7 +39,7 @@ ArchitecturesInstallIn64BitMode=x64compatible
 MinVersion=10.0
 InfoBeforeFile={#ProjectDir}\installer\安装说明.txt
 OutputDir={#ProjectDir}\dist
-OutputBaseFilename=xingkong_zh_v{#MyAppVersion}_setup
+OutputBaseFilename=SP_zh-CN_v{#MyAppVersion}_Setup
 Compression=lzma2/max
 SolidCompression=yes
 WizardStyle=modern
