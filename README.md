@@ -1,4 +1,4 @@
-# 星空汉化 · Substance 3D Painter 中文插件
+# Substance 3D Painter 中文插件
 
 为 Adobe Substance 3D Painter（Windows，12.x）提供界面与资源名的中文显示。
 
