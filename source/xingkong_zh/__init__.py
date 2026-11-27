@@ -28,7 +28,7 @@ PLUGIN_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NATIVE_PATH = os.path.join(PLUGIN_ROOT, "native", "xingkong_zh_qt6.dll")
 TRANSLATIONS_DIR = os.path.join(PLUGIN_ROOT, "translations")
 BILIBILI_URL = "https://space.bilibili.com/177308205"
-APP_VERSION = "0.1.1"
+APP_VERSION = "0.1.3"
 API_VERSION = 1
 HOST_NAME = "Substance 3D Painter"
 

@@ -2,7 +2,7 @@
  "$schema": "xk-translation-v1",
  "id": "manual_bm_zh",
  "language": "zh-CN",
- "description": "Substance 3D Painter 笔刷、智能蒙版与影棚/环境贴图名称",
+ "description": "Substance 3D Painter 笔刷、智能遮罩与影棚/环境贴图名称",
  "translations": {
   "Archive Inker": "档案墨线笔",
   "Dark Hatcher": "深色排线笔",

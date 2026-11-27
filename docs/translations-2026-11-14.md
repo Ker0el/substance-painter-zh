@@ -21,7 +21,17 @@
 | Earthenware / Terracotta | 陶器 / 赤陶 | |
 | Bokeh | 散景光斑 | |
 | Parting Line | 分模线 | 模具术语 |
-| Cavity | 缝隙 | 智能蒙版语境 |
+| Cavity | 缝隙 | 智能遮罩语境 |
+| Base Color / Base color | 基础颜色 | 官方 .qm 译「底色」，已覆盖；与 Base Color Intensity 等统一 |
+| Base Surface | 基础表面 | 官方 .qm 译「底面」，材质属性分组名 |
+| Mask / mask | 遮罩 | 官方混用「遮罩/蒙版」，按 App 内多数与教程用词统一遮罩 |
+| Filter / Filters | 滤镜 | 官方「过滤器」，统一滤镜；列表筛选（Filter by path）仍作「筛选」 |
+| Specular | 高光 | 官方「镜面」，统一高光；字面 Mirror 材质仍作「镜面」 |
+| Opacity | 不透明度 | 官方多处译「透明度」，语义相反 |
+| Alpha / Alphas | Alpha（透明度）/ Alpha | 官方「透贴」 |
+| Metallic | 金属度 | 官方「金属光泽」 |
+| Environment | 环境 | 官方「背景」，指 IBL 环境而非视口背景 |
+| Grunge | 脏旧 | 官方「垃圾摇滚」（音乐流派误译） |
 | Smudge / Splat / Leak / Stain | 涂抹 / 飞溅 / 渗漏 / 污斑 | |
 | Sign ... | ……标志 | 后置中心词 |
 | Shape ... | ……形 | 后置中心词 |

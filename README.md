@@ -34,6 +34,17 @@ xingkong_zh/
 
 ## 版本记录
 
+### v0.1.3（2026-11-27）
+
+- 术语统一：`Mask` 统一「遮罩」（原遮罩/蒙版混用）、`Base Color` 统一「基础颜色」（官方「底色」）、`Base Surface`「基础表面」（官方「底面」）
+- 官方错译修正（`manual_official_overrides_zh.json` 扩至 197 条）：
+  `Grunge` 垃圾摇滚→脏旧、`Count` 计算→数量、`Alignment` 校准→对齐、`Environment` 背景→环境、
+  `Metallic` 金属光泽→金属度、`channel` 频道→通道、`Alpha` 透贴→Alpha、`Opacity` 透明度→不透明度、
+  `Filter` 过滤器→滤镜、`Specular` 镜面→高光、`Dilation + diffusion` 漫反射→扩散、
+  `Bilinear` 两次线性→双线性、`Hard light` 硬光→强光、`Levels - Mask` 级别→色阶
+- 词库总数保持 **8120 条**（界面 4061 + 资源 4059），文档术语表同步更新
+- Python/native/installer 版本号同步至 0.1.3
+
 ### v0.1.1（2026-11-26）
 
 - 词库扩充至 **8120 条**（界面 4061 + 资源 4059），补全生成器/滤镜参数标签、混合模式、环境与灯光参数

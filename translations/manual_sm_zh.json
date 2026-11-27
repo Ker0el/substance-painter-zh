@@ -2,7 +2,7 @@
  "$schema": "xk-translation-v1",
  "id": "manual_sm_zh",
  "language": "zh-CN",
- "description": "Substance 3D Painter 智能材质（.spsm）与智能蒙版（.spmsk）名称",
+ "description": "Substance 3D Painter 智能材质（.spsm）与智能遮罩（.spmsk）名称",
  "translations": {
   "Aluminium Anodized Red": "阳极氧化铝（红）",
   "Aluminium Brushed Worn": "拉丝铝（磨损）",
