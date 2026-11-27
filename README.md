@@ -44,6 +44,7 @@ xingkong_zh/
   `Bilinear` 两次线性→双线性、`Hard light` 硬光→强光、`Levels - Mask` 级别→色阶
 - 词库总数保持 **8120 条**（界面 4061 + 资源 4059），文档术语表同步更新
 - Python/native/installer 版本号同步至 0.1.3
+- 安装完成页默认勾选「启动 Substance 3D Painter」，插件目录改为可选操作
 
 ### v0.1.1（2026-11-26）
 

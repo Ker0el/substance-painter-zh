@@ -1,4 +1,4 @@
-﻿星空汉化 · Substance 3D Painter 中文插件 v0.1.1
+﻿星空汉化 · Substance 3D Painter 中文插件 v0.1.3
 
 功能
 词库 8000+ 条：参数标签与界面文本已中文化，材质/选项专名保留英文。
@@ -10,7 +10,7 @@
   1. 先完全退出 Substance 3D Painter。
   2. 点击下一步。安装程序已填好插件目录：
      %USERPROFILE%\Documents\Adobe\Adobe Substance 3D Painter\python\plugins\xingkong_zh
-  3. 安装完成后启动 Painter，插件默认随软件启动；
+  3. 安装完成页可直接勾选「启动 Substance 3D Painter」；插件默认随软件启动；
      如未生效，打开菜单 Python → Plugins，勾选 xingkong_zh。
   4. 菜单栏出现「星空汉化」即安装成功，F1 切换中英文。
 

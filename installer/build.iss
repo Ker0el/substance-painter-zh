@@ -74,6 +74,7 @@ Type: filesandordirs; Name: "{app}\xingkong_zh\__pycache__"
 Root: HKCU; Subkey: "Software\Adobe\Adobe Substance 3D Painter\python_plugins\{#PluginDirName}"; ValueType: string; ValueName: "launch_at_start"; ValueData: "on"; Flags: uninsdeletekey
 
 [Run]
+Filename: "{code:GetPainterExe}"; WorkingDir: "{code:GetPainterDir}"; Description: "启动 Substance 3D Painter"; Flags: postinstall nowait skipifsilent; Check: PainterFound
 Filename: "{app}"; Description: "打开插件目录"; Flags: postinstall shellexec nowait skipifsilent unchecked
 
 [Code]
@@ -103,4 +104,43 @@ begin
       RenameFile(Probe, Target);
     end;
   end;
+end;
+
+// 定位 Painter 安装路径：优先读 Windows App Paths，其次常见安装目录
+function GetPainterExe(Param: String): String;
+var
+  Value: String;
+  Candidates: array[0..2] of String;
+  I: Integer;
+begin
+  if RegQueryStringValue(HKLM, 'SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Adobe Substance 3D Painter.exe', '', Value) and FileExists(Value) then
+  begin
+    Result := Value;
+    Exit;
+  end;
+  if RegQueryStringValue(HKCU, 'SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Adobe Substance 3D Painter.exe', '', Value) and FileExists(Value) then
+  begin
+    Result := Value;
+    Exit;
+  end;
+  Candidates[0] := ExpandConstant('{pf}\Adobe\Adobe Substance 3D Painter\Adobe Substance 3D Painter.exe');
+  Candidates[1] := ExpandConstant('{pf32}\Adobe\Adobe Substance 3D Painter\Adobe Substance 3D Painter.exe');
+  Candidates[2] := ExpandConstant('{sd}\Adobe\Adobe Substance 3D Painter\Adobe Substance 3D Painter.exe');
+  for I := 0 to 2 do
+    if FileExists(Candidates[I]) then
+    begin
+      Result := Candidates[I];
+      Exit;
+    end;
+  Result := '';
+end;
+
+function GetPainterDir(Param: String): String;
+begin
+  Result := ExtractFileDir(GetPainterExe(''));
+end;
+
+function PainterFound: Boolean;
+begin
+  Result := GetPainterExe('') <> '';
 end;
