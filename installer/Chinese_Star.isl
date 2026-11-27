@@ -123,7 +123,7 @@ NewFolderName=新建文件夹
 
 ; *** "Welcome" wizard page
 WelcomeLabel1=欢迎安装 [name]
-WelcomeLabel2=这个向导会带你装好 [name]。%n%n安装前请先完全退出 Substance 3D Designer；装完重新打开 Designer，在插件管理器启用即可。
+WelcomeLabel2=这个向导会带你装好 [name]。%n%n安装前请先完全退出 Substance 3D Painter；装完重新打开 Painter，菜单栏出现「星空汉化」即生效。
 
 ; *** "Password" wizard page
 WizardPassword=密码
@@ -156,9 +156,9 @@ UserInfoSerial=序列号(&S)：
 UserInfoNameRequired=请输入用户名。
 
 ; *** "Select Destination Location" wizard page
-WizardSelectDir=确认 Designer 插件目录
-SelectDirDesc=[name] 要装到哪个 Designer 插件目录？
-SelectDirLabel3=文件会写入下面这个 Designer 用户插件目录。目录名需要以 xingkong_zh 结尾；不需要选择 Designer 本体安装目录。
+WizardSelectDir=确认 Painter 插件目录
+SelectDirDesc=[name] 要装到哪个 Painter 插件目录？
+SelectDirLabel3=文件会写入下面这个 Painter 用户插件目录。目录名需要以 xingkong_zh 结尾；不需要选择 Painter 本体安装目录。
 SelectDirBrowseLabel=点击“下一步”继续。如果您想选择其他文件夹，点击“浏览”。
 DiskSpaceGBLabel=至少需要有 [gb] GB 的可用磁盘空间。
 DiskSpaceMBLabel=至少需要有 [mb] MB 的可用磁盘空间。
@@ -259,8 +259,8 @@ InstallingLabel=正在安装 [name]，请稍候…
 
 ; *** "Setup Completed" wizard page
 FinishedHeadingLabel=[name] 安装完成
-FinishedLabelNoIcons=[name] 已经装好。打开 Designer → 工具 → 插件管理器，启用 xingkong_zh 即可。
-FinishedLabel=[name] 已经装好。打开 Designer → 工具 → 插件管理器，启用 xingkong_zh 即可。
+FinishedLabelNoIcons=[name] 已经装好。打开 Painter，菜单栏出现「星空汉化」即安装成功；未生效时在菜单 Python → Plugins 中勾选 xingkong_zh。
+FinishedLabel=[name] 已经装好。打开 Painter，菜单栏出现「星空汉化」即安装成功；未生效时在菜单 Python → Plugins 中勾选 xingkong_zh。
 ClickFinish=点「完成」退出安装程序。
 FinishedRestartLabel=为完成 [name] 的安装，安装程序必须重新启动您的计算机。要立即重启吗？
 FinishedRestartMessage=为完成 [name] 的安装，安装程序必须重新启动您的计算机。%n%n要立即重启吗？

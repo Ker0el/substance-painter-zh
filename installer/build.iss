@@ -2,7 +2,7 @@
 ; 构建：先运行根目录 build.bat 生成 dist\xingkong_zh，再运行本目录 build.bat
 ; 直接编译：ISCC.exe build.iss（可用 ISCC 环境变量指定编译器路径）
 #define MyAppName "星空汉化 · SP 中文插件"
-#define MyAppVersion "0.1.3"
+#define MyAppVersion "0.1.4"
 #define MyPublisher "星空汉化"
 #define MyUrl "https://space.bilibili.com/177308205"
 #define SrcDir AddBackslash(SourcePath) + "..\dist\xingkong_zh"
@@ -18,11 +18,11 @@ AppPublisher={#MyPublisher}
 AppPublisherURL={#MyUrl}
 AppSupportURL={#MyUrl}
 AppUpdatesURL={#MyUrl}
-VersionInfoVersion=0.1.3.0
+VersionInfoVersion=0.1.4.0
 VersionInfoCompany={#MyPublisher}
 VersionInfoDescription={#MyAppName}
 VersionInfoProductName={#MyAppName}
-VersionInfoProductVersion=0.1.3.0
+VersionInfoProductVersion=0.1.4.0
 DefaultDirName={userdocs}\Adobe\Adobe Substance 3D Painter\python\plugins\{#PluginDirName}
 ; 用户浏览选择目录时，不要把 DefaultDirName 的最后一段拼上去
 AppendDefaultDirName=no
@@ -92,6 +92,13 @@ var
 begin
   if CurStep = ssInstall then
   begin
+    // 目录名与注册表键名必须一致，否则宿主不会自动加载
+    if CompareText(ExtractFileName(ExpandConstant('{app}')), '{#PluginDirName}') <> 0 then
+    begin
+      SuppressibleMsgBox('插件目录的最后一级必须是 xingkong_zh，否则 Painter 不会自动加载。' + #13#10 +
+                         '请重新运行安装程序并使用默认目录。', mbError, MB_OK, IDOK);
+      Abort;
+    end;
     Target := ExpandConstant('{app}\native\xingkong_zh_qt6.dll');
     if FileExists(Target) then
     begin
@@ -106,7 +113,53 @@ begin
   end;
 end;
 
-// 定位 Painter 安装路径：优先读 Windows App Paths，其次常见安装目录
+// 定位 Painter 安装路径：App Paths（64/32 位视图）→ 卸载登记表 → 常见安装目录
+// 找不到时只影响完成页「启动 Painter」勾选项，不影响插件安装本身
+function PainterExeInDir(const Dir: String): String;
+begin
+  Result := '';
+  if Dir = '' then
+    Exit;
+  if FileExists(AddBackslash(Dir) + 'Adobe Substance 3D Painter.exe') then
+    Result := AddBackslash(Dir) + 'Adobe Substance 3D Painter.exe';
+end;
+
+function PainterExeFromUninstall(const RootKey: Integer; const Key: String): String;
+var
+  Names: TArrayOfString;
+  I: Integer;
+  Sub, DisplayName, Value, Icon: String;
+begin
+  Result := '';
+  if not RegGetSubkeyNames(RootKey, Key, Names) then
+    Exit;
+  for I := 0 to GetArrayLength(Names) - 1 do
+  begin
+    Sub := Key + '\' + Names[I];
+    if not RegQueryStringValue(RootKey, Sub, 'DisplayName', DisplayName) then
+      Continue;
+    if Pos('Substance 3D Painter', DisplayName) = 0 then
+      Continue;
+    if RegQueryStringValue(RootKey, Sub, 'InstallLocation', Value) then
+    begin
+      Result := PainterExeInDir(Value);
+      if Result <> '' then
+        Exit;
+    end;
+    if RegQueryStringValue(RootKey, Sub, 'DisplayIcon', Icon) then
+    begin
+      Icon := RemoveQuotes(Icon);
+      if Pos(',', Icon) > 0 then
+        Icon := Copy(Icon, 1, Pos(',', Icon) - 1);
+      if FileExists(Icon) and (CompareText(ExtractFileName(Icon), 'Adobe Substance 3D Painter.exe') = 0) then
+      begin
+        Result := Icon;
+        Exit;
+      end;
+    end;
+  end;
+end;
+
 function GetPainterExe(Param: String): String;
 var
   Value: String;
@@ -123,6 +176,20 @@ begin
     Result := Value;
     Exit;
   end;
+  if RegQueryStringValue(HKLM, 'SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\App Paths\Adobe Substance 3D Painter.exe', '', Value) and FileExists(Value) then
+  begin
+    Result := Value;
+    Exit;
+  end;
+  Result := PainterExeFromUninstall(HKLM, 'SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall');
+  if Result <> '' then
+    Exit;
+  Result := PainterExeFromUninstall(HKLM, 'SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall');
+  if Result <> '' then
+    Exit;
+  Result := PainterExeFromUninstall(HKCU, 'SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall');
+  if Result <> '' then
+    Exit;
   Candidates[0] := ExpandConstant('{pf}\Adobe\Adobe Substance 3D Painter\Adobe Substance 3D Painter.exe');
   Candidates[1] := ExpandConstant('{pf32}\Adobe\Adobe Substance 3D Painter\Adobe Substance 3D Painter.exe');
   Candidates[2] := ExpandConstant('{sd}\Adobe\Adobe Substance 3D Painter\Adobe Substance 3D Painter.exe');
@@ -143,4 +210,28 @@ end;
 function PainterFound: Boolean;
 begin
   Result := GetPainterExe('') <> '';
+end;
+
+// 目录页：最后一级必须是 xingkong_zh（注册表键名固定，改名后不会自动加载）
+function NextButtonClick(CurPageID: Integer): Boolean;
+begin
+  Result := True;
+  if CurPageID = wpSelectDir then
+    if CompareText(ExtractFileName(WizardDirValue), '{#PluginDirName}') <> 0 then
+    begin
+      MsgBox('插件目录的最后一级必须是 xingkong_zh。' + #13#10 +
+             '请点「浏览」选择 …\Adobe Substance 3D Painter\python\plugins\xingkong_zh。',
+             mbError, MB_OK);
+      Result := False;
+    end;
+end;
+
+// 开始安装前：未检测到宿主时给一句提示（静默安装自动跳过，不阻塞）
+function PrepareToInstall(var NeedsRestart: Boolean): String;
+begin
+  Result := '';
+  if not PainterFound then
+    SuppressibleMsgBox('没有检测到 Substance 3D Painter。' + #13#10#13#10 +
+                       '插件会照常装到当前用户的文档目录，安装或启动 Painter 后自动加载。',
+                       mbInformation, MB_OK, IDOK);
 end;
