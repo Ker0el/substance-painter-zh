@@ -16,10 +16,12 @@ from PySide6 import QtCore, QtGui, QtWidgets
 from shiboken6 import getCppPointer, isValid
 
 try:
+    import substance_painter.application as sp_app
     import substance_painter.event as sp_event
     import substance_painter.resource as sp_resource
     import substance_painter.ui as sp_ui
 except Exception:  # pragma: no cover - 非 Painter 环境
+    sp_app = None
     sp_event = None
     sp_resource = None
     sp_ui = None
@@ -28,9 +30,13 @@ PLUGIN_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NATIVE_PATH = os.path.join(PLUGIN_ROOT, "native", "xingkong_zh_qt6.dll")
 TRANSLATIONS_DIR = os.path.join(PLUGIN_ROOT, "translations")
 BILIBILI_URL = "https://space.bilibili.com/177308205"
-APP_VERSION = "0.1.4"
+APP_VERSION = "0.1.5"
 API_VERSION = 1
 HOST_NAME = "Substance 3D Painter"
+# 宿主版本门槛：与 installer/build.iss 的 SupportedPainterMajorVersion 保持一致
+SUPPORTED_HOST_MAJOR = 12
+SUPPORTED_HOST_TEXT = "12.x"
+SUPPORTED_HOST_TESTED = "12.2.0"
 
 _state = {
     "dll": None,
@@ -44,6 +50,8 @@ _state = {
     "dictionary": {},
     "control_ids": {},
     "started": False,
+    "version_blocked": False,
+    "version_acknowledged": False,
     "log_path": os.path.join(tempfile.gettempdir(), "xingkong_sp.log"),
 }
 
@@ -81,6 +89,53 @@ def _main_window():
     except Exception as exc:
         _log("get main window failed:", exc)
         return None
+
+
+def _host_version():
+    """宿主版本 (major, minor, patch)；读不到返回 None。"""
+    if sp_app is None:
+        return None
+    try:
+        info = sp_app.version_info()
+    except Exception as exc:
+        _log("host version unavailable:", exc)
+        return None
+    if isinstance(info, str):
+        info = re.findall(r"\d+", info)
+    try:
+        return tuple(int(part) for part in info)
+    except Exception:
+        _log("host version unparsable:", repr(info))
+        return None
+
+
+def _host_supported(version):
+    # 读不到版本时不阻断，避免误伤；读到则只放行 12.x
+    if version is None:
+        return True
+    return len(version) > 0 and version[0] == SUPPORTED_HOST_MAJOR
+
+
+def _confirm_unsupported_host(window, version):
+    """不支持的宿主：警告并允许用户选择继续试用。返回 True 表示继续。"""
+    actual = ".".join(str(part) for part in version[:3]) if version else "未知"
+    _log("unsupported host version:", actual, "expected:", SUPPORTED_HOST_TEXT)
+    try:
+        box = QtWidgets.QMessageBox(window)
+        box.setIcon(QtWidgets.QMessageBox.Icon.Warning)
+        box.setWindowTitle("星空汉化 · 不支持的宿主版本")
+        box.setText(f"当前 Substance 3D Painter 版本为 {actual}。")
+        box.setInformativeText(
+            f"本插件仅支持 {SUPPORTED_HOST_TEXT}（{SUPPORTED_HOST_TESTED} 实测）。"
+            "继续启用可能出现菜单缺失、资源名不翻译或宿主异常。")
+        trial = box.addButton("仍然试用", QtWidgets.QMessageBox.ButtonRole.AcceptRole)
+        stop = box.addButton("停用插件", QtWidgets.QMessageBox.ButtonRole.RejectRole)
+        box.setDefaultButton(stop)
+        box.exec()
+        return box.clickedButton() is trial
+    except Exception as exc:
+        _log("version warning failed:", exc)
+        return False
 
 
 def _load_control_ids():
@@ -569,13 +624,24 @@ def _start_engine():
 def _initialize():
     # Painter 在插件启用时可能 start→close→start 连续调用，这里做重入保护，
     # 否则会装出两个菜单、重复调度引擎启动。
-    if _state["started"] or _state["menu"] is not None:
+    if (_state["started"] or _state["menu"] is not None
+            or _state["version_blocked"]):
         return
     window = _main_window()
     if window is None or not isValid(window):
         raise RuntimeError("Painter 的 Qt 界面尚未就绪")
     _state["window"] = window
     _load_preferences()
+    version = _host_version()
+    _log("host version:", version)
+    if not _host_supported(version) and not _state["version_acknowledged"]:
+        if _confirm_unsupported_host(window, version):
+            _state["version_acknowledged"] = True
+            _log("unsupported host version: trial enabled by user")
+        else:
+            _state["version_blocked"] = True
+            _log("unsupported host version: plugin disabled")
+            return
     _add_actions(window)
     QtCore.QTimer.singleShot(1500, _start_engine)
     _log("plugin initialized, engine scheduled")
@@ -651,6 +717,7 @@ def close_plugin():
         "dictionary": {},
         "control_ids": {},
         "started": False,
+        "version_blocked": False,
         "window": None,
     })
     _log("plugin closed")

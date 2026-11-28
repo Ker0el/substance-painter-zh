@@ -1673,7 +1673,7 @@ void scanAllWidgets() {
 XK_EXPORT int __cdecl xk_api_version() { return kApiVersion; }
 
 XK_EXPORT const wchar_t *__cdecl xk_build_id() {
-    return L"xingkong_zh_qt6 0.1.4";
+    return L"xingkong_zh_qt6 0.1.5";
 }
 
 XK_EXPORT void __cdecl xk_clear_translations() {

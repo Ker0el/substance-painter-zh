@@ -2,12 +2,15 @@
 ; 构建：先运行根目录 build.bat 生成 dist\xingkong_zh，再运行本目录 build.bat
 ; 直接编译：ISCC.exe build.iss（可用 ISCC 环境变量指定编译器路径）
 #define MyAppName "星空汉化 · SP 中文插件"
-#define MyAppVersion "0.1.4"
+#define MyAppVersion "0.1.5"
 #define MyPublisher "星空汉化"
 #define MyUrl "https://space.bilibili.com/177308205"
 #define SrcDir AddBackslash(SourcePath) + "..\dist\xingkong_zh"
 #define ProjectDir AddBackslash(SourcePath) + ".."
 #define PluginDirName "xingkong_zh"
+; 宿主版本校验：放行 12.x（12.2.0 实测，12.0/12.1 未实测），11.x 及更早拦截
+#define SupportedPainterMajorVersion "12"
+#define SupportedPainterSeries "12.x"
 
 [Setup]
 AppId={{6F1B2C74-8E52-4C7B-9E0A-3F5B1D2A7C91}
@@ -18,11 +21,11 @@ AppPublisher={#MyPublisher}
 AppPublisherURL={#MyUrl}
 AppSupportURL={#MyUrl}
 AppUpdatesURL={#MyUrl}
-VersionInfoVersion=0.1.4.0
+VersionInfoVersion=0.1.5.0
 VersionInfoCompany={#MyPublisher}
 VersionInfoDescription={#MyAppName}
 VersionInfoProductName={#MyAppName}
-VersionInfoProductVersion=0.1.4.0
+VersionInfoProductVersion=0.1.5.0
 DefaultDirName={userdocs}\Adobe\Adobe Substance 3D Painter\python\plugins\{#PluginDirName}
 ; 用户浏览选择目录时，不要把 DefaultDirName 的最后一段拼上去
 AppendDefaultDirName=no
@@ -105,7 +108,7 @@ begin
       Probe := Target + '.locktest';
       if not RenameFile(Target, Probe) then
       begin
-        MsgBox('请先完全退出 Substance 3D Painter，再运行本安装程序。', mbError, MB_OK);
+        SuppressibleMsgBox('请先完全退出 Substance 3D Painter，再运行本安装程序。', mbError, MB_OK, IDOK);
         Abort;
       end;
       RenameFile(Probe, Target);
@@ -207,6 +210,32 @@ begin
   Result := ExtractFileDir(GetPainterExe(''));
 end;
 
+// ---- 宿主版本校验 ----
+// native 引擎按 Qt 6.8.3 编译，只在 Painter 12.2.0（Qt 6.8.7 / Python 3.13）实测；
+// 12.x 放行（Qt 6.8.6+ 向后兼容），11.x 及更早拦截（Qt 6.5.8，DLL 可能加载失败）。
+function PainterVersionOf(const Exe: String): String;
+var
+  Ver: String;
+begin
+  Result := '';
+  if (Exe <> '') and GetVersionNumbersString(Exe, Ver) then
+    Result := Ver;
+end;
+
+// 取主版本号：GetVersionNumbersString 通常返回 12.2.0.0
+function VersionMajorPart(const Version: String): String;
+var
+  I: Integer;
+begin
+  Result := '';
+  for I := 1 to Length(Version) do
+  begin
+    if Version[I] = '.' then
+      Break;
+    Result := Result + Version[I];
+  end;
+end;
+
 function PainterFound: Boolean;
 begin
   Result := GetPainterExe('') <> '';
@@ -219,19 +248,43 @@ begin
   if CurPageID = wpSelectDir then
     if CompareText(ExtractFileName(WizardDirValue), '{#PluginDirName}') <> 0 then
     begin
-      MsgBox('插件目录的最后一级必须是 xingkong_zh。' + #13#10 +
-             '请点「浏览」选择 …\Adobe Substance 3D Painter\python\plugins\xingkong_zh。',
-             mbError, MB_OK);
+      SuppressibleMsgBox('插件目录的最后一级必须是 xingkong_zh。' + #13#10 +
+                         '请点「浏览」选择 …\Adobe Substance 3D Painter\python\plugins\xingkong_zh。',
+                         mbError, MB_OK, IDOK);
       Result := False;
     end;
 end;
 
-// 开始安装前：未检测到宿主时给一句提示（静默安装自动跳过，不阻塞）
+// 开始安装前：未检测到宿主时给一句提示（静默安装自动跳过，不阻塞）；
+// 检测到宿主时校验主版本，非 12.x 弹窗拦截（静默安装直接返回错误码）。
 function PrepareToInstall(var NeedsRestart: Boolean): String;
+var
+  Exe, Ver: String;
 begin
   Result := '';
-  if not PainterFound then
+  Exe := GetPainterExe('');
+  if Exe = '' then
+  begin
     SuppressibleMsgBox('没有检测到 Substance 3D Painter。' + #13#10#13#10 +
                        '插件会照常装到当前用户的文档目录，安装或启动 Painter 后自动加载。',
                        mbInformation, MB_OK, IDOK);
+    Exit;
+  end;
+
+  Ver := PainterVersionOf(Exe);
+  if Ver = '' then
+  begin
+    // 精简/重打包的宿主可能没有版本资源；安装继续，插件启动时用宿主 API 再校验
+    SuppressibleMsgBox('无法读取已安装 Painter 的版本号（可能是精简或重打包版本）。' + #13#10#13#10 +
+                       '安装将继续；插件启动时会通过宿主 API 再次校验版本。',
+                       mbInformation, MB_OK, IDOK);
+    Exit;
+  end;
+
+  if CompareText(VersionMajorPart(Ver), '{#SupportedPainterMajorVersion}') <> 0 then
+    Result := '检测到 Substance 3D Painter ' + Ver + '，本插件仅支持 {#SupportedPainterSeries} 版本' +
+              '（12.2.0 实测，12.0/12.1 未实测）。' + #13#10#13#10 +
+              '11.x 及更早版本的插件接口与 Qt 运行时不同，安装后可能出现菜单缺失、资源名不翻译或宿主异常，' +
+              '因此已中止安装。' + #13#10#13#10 +
+              '手动复制插件目录时，插件启动会提示版本不匹配，可选择继续试用。';
 end;
